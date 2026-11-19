@@ -1,1 +1,2 @@
 enter line1
+enter line2
